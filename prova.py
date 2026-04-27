@@ -1,0 +1,5 @@
+nom=input("Como te llamas shiquillo?")
+print("Primera vez que lo veo",nom )
+edat = input("I cuantos años tienes?")
+Jubilacio = 65 - int(edat)
+print ("Hoooola" + nom + ", tienes " + str(edat) + " años. Te quedan " + str(Jubilacio) + " años para jubilarte.")
